@@ -21,7 +21,7 @@ public class ValidadorController {
 
 	@GetMapping("/")
 	public String index() {
-		return "{\"mensagem\": \"Bem vindo api\"}";
+		return "{\"mensagem\": \"Oi amor, tudo bem? Te amo!\"}";
 	}
 
 }
